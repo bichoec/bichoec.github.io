@@ -4,7 +4,6 @@ $( document ).ready(function() {
     });
 
     $("#navigationLinked").click(function() {
-        alert("A");
         $(location).attr('href', 'https://www.linkedin.com/in/eric-guzmán-279ba6126/');
     });
 
