@@ -616,6 +616,14 @@ background: url(../img/html@2x.png) no-repeat;
 margin-right:20px;
 }
 
+.title-icon-swift{
+    float:left;
+    width:68px;
+    height:68px;
+    background: url(../img/swift@2x.png) no-repeat;
+    margin-right:20px;
+}
+
 .title-text{
 font-family: Helvetica, sans-serif;
 -webkit-font-smoothing: antialiased;

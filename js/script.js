@@ -26,4 +26,12 @@ $( document ).ready(function() {
     $("#celitButton").click(function() {
         $(location).attr('href', 'https://bichoec.github.io/celit.html');
     });
+    
+    $("#blackListButton").click(function() {
+        $(location).attr('href', 'https://bichoec.github.io/black.html');
+    });
+    
+    $("#groceryListButton").click(function() {
+        $(location).attr('href', 'https://bichoec.github.io/grocery.html');
+    });
 });
