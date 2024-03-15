@@ -336,7 +336,7 @@ position:absolute;
 width:20%;
 right:7.5%;
 height:auto;
-margin-top:85px;	
+margin-top:-85px;	
 }
 
 .wrapper-view,.wrapper-file,.wrapper-weight,.wrapper-desc,.wrapper-download{

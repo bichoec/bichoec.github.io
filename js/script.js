@@ -34,4 +34,8 @@ $( document ).ready(function() {
     $("#groceryListButton").click(function() {
         $(location).attr('href', 'https://bichoec.github.io/grocery.html');
     });
+    
+    $("#altiButton").click(function() {
+        $(location).attr('href', 'https://bichoec.github.io/altitum.html');
+    });
 });
